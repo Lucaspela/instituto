@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "temperaturaVar", "temperaturaVar.csproj", "{B7259E99-F520-4116-9C60-8F8A8F5CCA36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7259E99-F520-4116-9C60-8F8A8F5CCA36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7259E99-F520-4116-9C60-8F8A8F5CCA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7259E99-F520-4116-9C60-8F8A8F5CCA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7259E99-F520-4116-9C60-8F8A8F5CCA36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C91E1DAA-95BA-4A16-BF16-23AA36103A60}
+	EndGlobalSection
+EndGlobal
